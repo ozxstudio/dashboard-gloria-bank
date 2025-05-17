@@ -19,11 +19,7 @@
     <!-- Materialize CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
     <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
-    <style>
-        .mb-30 {
-            margin-bottom: 30px;
-        }
-    </style>
+
 </head>
 
 <body class="font-sans antialiased">

@@ -37,7 +37,6 @@ JWT or Session Auth
 
 # ✅ GudangLaba (Laravel)
 Livewire + Laravel Jetstream (optional)
-
 > Read-only access tanpa login.
 > Admin hanya untuk publikasi (manual override).
 
@@ -48,14 +47,13 @@ Livewire + Laravel Jetstream (optional)
 
 ## Visi
 Gloriabank bukan produk. Ini adalah alat.
-
 > Untuk yayasan, untuk komunitas, untuk keadilan sosial finansial //.
 > Alternatif membangun sistem Keuangan Global selain Kapitalisme yang mematikan Kemanusiaan //.
 
-#  ⚡️ Kapitalisme = sistem yang rusak karena satu hal:
-> Uang disembah, bukan dikelola.
-> Data disimpan, bukan dibuka.
-> Kekuasaan dipusatkan, bukan dibagi.
+## ⚡️ Kapitalisme = sistem yang rusak karena satu hal:
+- Uang disembah, bukan dikelola.
+- Data disimpan, bukan dibuka.
+- Kekuasaan dipusatkan, bukan dibagi.
 
 ## Prinsip
 - Transparansi total
@@ -63,7 +61,7 @@ Gloriabank bukan produk. Ini adalah alat.
 - Tidak dikuasai individu
 - Tidak dijual
 
-📜 **Warisan Digital**  
+## 📜 **Warisan Digital**  
 Lisensi ini dilindungi oleh [MIT License](./LICENSE)  
 Dengan semangat pewarisan dalam [LICENSE_APPEND.md](./LICENSE_APPEND.md)
 

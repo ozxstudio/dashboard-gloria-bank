@@ -1,19 +1,19 @@
-# ✅ 1. Gloriabank – Django + Inertia + React
-# Untuk keuangan internal, login, transaksi, dashboard klasik modern
+# ✅ 1. Gloriabank – Django + Inertia + React //.
+# Untuk keuangan internal, login, transaksi, dashboard klasik modern //.
 
-🔐 Auth: Django AllAuth / JWT
+> 🔐 Auth: Django AllAuth / JWT.
 
-📦 Frontend: Inertia.js + React
+> 📦 Frontend: Inertia.js + React.
 
-📡 Data via Django REST Framework
+> 📡 Data via Django REST Framework.
 
 
 # 🧾 Fitur:
 
-> Manajemen akun
-> Input transaksi
-> Dashboard kas, laporan dinamis
-> Integrasi ke GudangLaba via signed API
+> Manajemen akun.
+> Input transaksi.
+> Dashboard kas, laporan dinamis.
+> Integrasi ke GudangLaba via signed API.
 
 
 # betul jake :: membangun sistem keuangan global bukan berdasar kapitalisme // tetapi planning dan programming >> hidup bukan untuk mengumpulkan materi dan uang tetapi mengelola keuangan menjadi pencipta berkelanjutan //
@@ -22,24 +22,24 @@
 Dua sistem → dua dunia → satu ekosistem keuangan etis dan berkelanjutan
 
 💼 Gloriabank
-> Django + Inertia (React) → internal finance & manajemen digital
+> Django + Inertia (React) → internal finance & manajemen digital.
 
 📖 GudangLaba
-> Laravel + Livewire → publikasi ledger keuangan audit terbuka
+> Laravel + Livewire → publikasi ledger keuangan audit terbuka.
 
 
 # 🔐 OTENTIKASI
 ✅ Gloriabank (Django)
 JWT or Session Auth
 
-> Role: superadmin, admin, user
-> All admin via /dashboard
+> Role: superadmin, admin, user.
+> All admin via /dashboard.
 
 # ✅ GudangLaba (Laravel)
 Livewire + Laravel Jetstream (optional)
 
-> Read-only access tanpa login
-> Admin hanya untuk publikasi (manual override)
+> Read-only access tanpa login.
+> Admin hanya untuk publikasi (manual override).
 
 # Gloriabank: Sistem Keuangan Etis & Transparan
 > Dibangun untuk masa depan, bukan untuk akumulasi.  
@@ -49,8 +49,13 @@ Livewire + Laravel Jetstream (optional)
 ## Visi
 Gloriabank bukan produk. Ini adalah alat.
 
-> Untuk yayasan, untuk komunitas, untuk keadilan sosial finansial //
-> Alternatif membangun sistem Keuangan Global selain Kapitalisme yang mematikan Kemanusiaan //
+> Untuk yayasan, untuk komunitas, untuk keadilan sosial finansial //.
+> Alternatif membangun sistem Keuangan Global selain Kapitalisme yang mematikan Kemanusiaan //.
+
+#  ⚡️ Kapitalisme = sistem yang rusak karena satu hal:
+> Uang disembah, bukan dikelola.
+> Data disimpan, bukan dibuka.
+> Kekuasaan dipusatkan, bukan dibagi.
 
 ## Prinsip
 - Transparansi total

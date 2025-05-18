@@ -45,3 +45,19 @@ Read-only access tanpa login
 
 Admin hanya untuk publikasi (manual override)
 
+# Gloriabank: Sistem Keuangan Etis & Transparan
+> Dibangun untuk masa depan, bukan untuk akumulasi.  
+> Diberdayakan oleh anak bangsa. Dimiliki bersama.  
+> Disiapkan oleh generasi pencipta untuk anak cucu.
+
+## Visi
+Gloriabank bukan produk. Ini adalah alat.  
+Untuk yayasan, untuk komunitas, untuk keadilan sosial finansial.
+
+## Prinsip
+- Transparansi total
+- Audit publik real-time
+- Tidak dikuasai individu
+- Tidak dijual
+
+

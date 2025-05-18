@@ -10,13 +10,13 @@
 
 # 🧾 Fitur:
 
-Manajemen akun
+> Manajemen akun
 
-Input transaksi
+> Input transaksi
 
-Dashboard kas, laporan dinamis
+> Dashboard kas, laporan dinamis
 
-Integrasi ke GudangLaba via signed API
+> Integrasi ke GudangLaba via signed API
 
 
 # betul jake :: membangun sistem keuangan global bukan berdasar kapitalisme // tetapi planning dan programming >> hidup bukan untuk mengumpulkan materi dan uang tetapi mengelola keuangan menjadi pencipta berkelanjutan //
@@ -25,26 +25,24 @@ Integrasi ke GudangLaba via signed API
 Dua sistem → dua dunia → satu ekosistem keuangan etis dan berkelanjutan
 
 💼 Gloriabank
-Django + Inertia (React) → internal finance & manajemen digital
+> Django + Inertia (React) → internal finance & manajemen digital
 
 📖 GudangLaba
-Laravel + Livewire → publikasi ledger keuangan audit terbuka
+> Laravel + Livewire → publikasi ledger keuangan audit terbuka
 
 
 # 🔐 OTENTIKASI
 ✅ Gloriabank (Django)
 JWT or Session Auth
 
-Role: superadmin, admin, user
-
-All admin via /dashboard
+> Role: superadmin, admin, user
+> All admin via /dashboard
 
 # ✅ GudangLaba (Laravel)
 Livewire + Laravel Jetstream (optional)
 
-Read-only access tanpa login
-
-Admin hanya untuk publikasi (manual override)
+> Read-only access tanpa login
+> Admin hanya untuk publikasi (manual override)
 
 # Gloriabank: Sistem Keuangan Etis & Transparan
 > Dibangun untuk masa depan, bukan untuk akumulasi.  
@@ -52,8 +50,10 @@ Admin hanya untuk publikasi (manual override)
 > Disiapkan oleh generasi pencipta untuk anak cucu.
 
 ## Visi
-Gloriabank bukan produk. Ini adalah alat.  
-Untuk yayasan, untuk komunitas, untuk keadilan sosial finansial.
+Gloriabank bukan produk. Ini adalah alat.
+
+> Untuk yayasan, untuk komunitas, untuk keadilan sosial finansial //
+> Alternatif membangun sistem Keuangan Global selain Kapitalisme yang mematikan Kemanusiaan //
 
 ## Prinsip
 - Transparansi total

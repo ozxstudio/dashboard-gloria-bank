@@ -60,4 +60,7 @@ Untuk yayasan, untuk komunitas, untuk keadilan sosial finansial.
 - Tidak dikuasai individu
 - Tidak dijual
 
+📜 **Warisan Digital**  
+Lisensi ini dilindungi oleh [MIT License](./LICENSE)  
+Dengan semangat pewarisan dalam [LICENSE_APPEND.md](./LICENSE_APPEND.md)
 

@@ -38,3 +38,9 @@ Proyek ini berlisensi MIT. Lisensi ini **bukan menggantikan**, melainkan **melen
 Gunakan dengan bijak. Bangun untuk masa depan. Jaga untuk anak cucu.
 
 ---
+
+
+📜 **Warisan Digital**  
+Lisensi ini dilindungi oleh [MIT License](./LICENSE)  
+Dengan semangat pewarisan dalam [LICENSE_APPEND.md](./LICENSE_APPEND.md)
+

@@ -1,5 +1,5 @@
-#✅ 1. Gloriabank – Django + Inertia + React
-#Untuk keuangan internal, login, transaksi, dashboard modern
+# ✅ 1. Gloriabank – Django + Inertia + React
+# Untuk keuangan internal, login, transaksi, dashboard modern
 
 🔐 Auth: Django AllAuth / JWT
 

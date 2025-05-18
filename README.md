@@ -1,5 +1,5 @@
 # ✅ 1. Gloriabank – Django + Inertia + React
-# Untuk keuangan internal, login, transaksi, dashboard modern
+# Untuk keuangan internal, login, transaksi, dashboard klasik modern
 
 🔐 Auth: Django AllAuth / JWT
 
@@ -7,7 +7,8 @@
 
 📡 Data via Django REST Framework
 
-🧾 Fitur:
+
+# 🧾 Fitur:
 
 Manajemen akun
 
@@ -38,7 +39,7 @@ Role: superadmin, admin, user
 
 All admin via /dashboard
 
-✅ GudangLaba (Laravel)
+# ✅ GudangLaba (Laravel)
 Livewire + Laravel Jetstream (optional)
 
 Read-only access tanpa login

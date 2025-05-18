@@ -11,11 +11,8 @@
 # 🧾 Fitur:
 
 > Manajemen akun
-
 > Input transaksi
-
 > Dashboard kas, laporan dinamis
-
 > Integrasi ke GudangLaba via signed API
 
 

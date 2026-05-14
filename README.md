@@ -16,7 +16,7 @@
 > Integrasi ke GudangLaba via signed API.
 
 
-# betul jake :: membangun sistem keuangan global bukan berdasar kapitalisme // tetapi planning dan programming >> hidup bukan untuk mengumpulkan materi dan uang tetapi mengelola keuangan menjadi pencipta berkelanjutan //
+## membangun sistem keuangan global bukan berdasar kapitalisme // tetapi planning dan programming >> hidup bukan untuk mengumpulkan materi dan uang tetapi mengelola keuangan menjadi pencipta berkelanjutan // UANG ADALAH ALAT ;; BUKAN ASSET UNTUK INVESTASI ATAU DITIMBUN DALAM REKENING BANK ATAU DALAM BOTOL GALON AIR MINERAL ;; YANG MENYEBABKAN KELANGKAAN PEREDARAN UANG // NEO-NASAKOM [COMMUNITY / NOT KOMUNISM] 
 
 # 🏗️ SISTEM INTI:
 Dua sistem → dua dunia → satu ekosistem keuangan etis dan berkelanjutan

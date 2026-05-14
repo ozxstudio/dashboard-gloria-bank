@@ -62,7 +62,7 @@ Gloriabank bukan produk. Ini adalah alat.
 - Tidak dijual
 
 ## 📜 **Warisan Digital**  
-Lisensi ini dilindungi oleh [MIT License](./LICENSE)  
+Lisensi ini dilindungi oleh [GNU License](./LICENSE)  
 Dengan semangat pewarisan dalam [LICENSE_APPEND.md](./LICENSE_APPEND.md)
 
 ## 
